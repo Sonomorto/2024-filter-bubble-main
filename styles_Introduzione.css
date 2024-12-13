@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: #002147;
+    color: white;
+    text-align: center;
+    padding: 100px 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    text-align: center;
+    margin: 10px 0 25px;;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+    padding: 10px 30px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+li {
+    text-align: center;
+}
+
+footer {
+    background: #002147;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px;
+    font-size: 0.9rem;
+}
