@@ -22,6 +22,10 @@ h2 {
     text-transform: uppercase;
 }
 
+header p{
+    color:#002147;
+}
+
 p {
     text-align: center;
     padding: 10px 30px;
@@ -31,6 +35,20 @@ p {
 
 li {
     text-align: center;
+}
+
+header nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Lora', serif;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s;
+}
+
+header nav a:hover {
+    border-color: #b98b58;
 }
 
 footer {
